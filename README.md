@@ -1,6 +1,3 @@
-# Evidence for Reviewer 9mgj Timeline
-
-This page provides the timestamp evidence referenced in our confidential comment to the Area Chair.
 
 ## Fig. 1. Reviewer 9mgj’s first-round review
 ![Fig. 1. Reviewer 9mgj’s first-round review](9mgj_first_round_review.png)
